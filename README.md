@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnnysedh3lllo
 - 👀 I’m interested in alot i don't even know what to say
-- 🌱 I’m currently learning CSS in respect to Web Development
+- 🌱 I’m currently learning CSS & Responsive Web Design.
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on twitter @johnnysedh3lllo
 
