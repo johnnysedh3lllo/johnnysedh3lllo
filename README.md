@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John but you already knew that.
 - 👀 I’m interested in creating and adding value.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Creative Software Projects.
+- 🌱 I’m currently learning Astro.
+- 💞️ I’m looking to collaborate on cool stuff
 - 📫 reach me on twitter @johnnysedh3lllo
 
 <!---
